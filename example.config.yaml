@@ -1,0 +1,8 @@
+---
+
+config_dir: "~"
+
+pihole_enable: true
+pihole_hostname: pihole
+pihole_timezone: 
+pihole_password: ""
